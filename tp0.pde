@@ -1,7 +1,13 @@
-//Lilo Ortiz - TP 0
+/*
+Lilo Ortiz - TP 0
+Comisión 3
+93502/9
+*/
 
-//Hice el dibujo en setup para no tener problemas al cambiar grosores o colores usando
-//las estructuras void aprendidas en clase.
+/*
+Hice el dibujo en setup para no tener problemas al cambiar grosores o colores usando
+las estructuras void aprendidas en clase.
+*/
 
 //Cargar imágenes
 PImage bowie;
