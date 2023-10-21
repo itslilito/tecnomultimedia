@@ -1,6 +1,6 @@
 /*
   TP5 - Lilo Ortiz 93502/9 - Comisión 3
-  Link al video: 
+  Link al video: https://youtu.be/uzKrS7AIR44
 */
 
 //variables para imágenes
